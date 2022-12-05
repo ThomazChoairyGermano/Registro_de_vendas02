@@ -1,8 +1,8 @@
 Grupo: 
-Thomaz Choairy Germano
-Jorge Miguel Choairy
-Eryck targino martins da silva
-Bruno Falcão Feitosa Massa Filho
+Thomaz Choairy Germano;
+Jorge Miguel Choairy;
+Eryck targino martins da silva;
+Bruno Falcão Feitosa Massa Filho.
 
 Avaliação Unidade 2
 
